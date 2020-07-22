@@ -27,9 +27,9 @@ A continuación se describe las áreas de interés de cada uno de los académico
   - Los cursos de Magíster son frecuentemente ofrecidos como *asignaturas electivas* para alumnos del ICMAT. Sin embargo, esto depende de la programación en el programa de Magíster.
   - Diversas asignaturas de ICMAT pueden ser convalidadas en el programa de Magíster. Por ejemplo, la asignatura [MAT206](https://github.com/faosorios/EST-USM/blob/master/Programas/MAT206.pdf) puede ser convalidada por su contraparte en el programa de Magíster [MAT460](https://github.com/faosorios/EST-USM/blob/master/Programas/MAT460.pdf) - *Inferencia Estadística*.
   - Una serie de asignaturas son recomendables como complemento a las ofrecidas por nuestro departamento. El siguiente listado presenta algunos ejemplos (en paréntesis el Departamento donde se dicta la asignatura):
-    + Base de datos (Informática).
-    + Física computacional (Física).
-    + Inteligencia artificial (Informática).
-    + Minería de datos (Electrónica).
-    + Procesamiento de imágenes digitales (Electrónica). 
-    + Teoría de información (Electrónica).
+    + Base de datos ([Informática](https://www.inf.utfsm.cl/)).
+    + Física computacional ([Física](https://fisica.usm.cl/)).
+    + Inteligencia artificial ([Informática](https://www.inf.utfsm.cl/)).
+    + Minería de datos ([Electrónica](http://www.electronica.usm.cl/)).
+    + Procesamiento de imágenes digitales ([Electrónica](http://www.electronica.usm.cl/)). 
+    + Teoría de información ([Electrónica](http://www.electronica.usm.cl/)).
