@@ -24,12 +24,12 @@ A continuación se describe las áreas de interés de cada uno de los académico
   - [MAT467](https://github.com/faosorios/EST-USM/blob/master/Programas/MAT467.pdf) - **Modelos Espacio-Temporales**:
   - [MAT468](https://github.com/faosorios/EST-USM/blob/master/Programas/MAT468.pdf) - **Simulación Estocástica**: La asignatura ofrece una descripción detallada de las principales herramientas necesarias para resolver problemas en el área de estadística aplicada en ingeniería. El curso cubre un amplio rango de aspectos computacionales en estadística, desde álgebra lineal numérica, optimización y modelos de regresión no lineal a generación de dígitos aleatorios. Se realiza bastante énfasis en aquellas técnicas regularmente utilizadas en el campo de estadística. Se discute algunos aspectos de la implementación computacional y se ilustra los resultados a través de ejemplos. Los procedimientos descritos se aplicarán para llevar a cabo la inferencia estadística en modelos de mayor complejidad.
 * *Observaciones*:
-  - Los cursos de Magíster pueden son frecuentemente ofrecidas como *asignaturas electivas* para alumnos del ICMAT. Sin embargo, esto depende de la programación en el programa de Magíster.
+  - Los cursos de Magíster son frecuentemente ofrecidos como *asignaturas electivas* para alumnos del ICMAT. Sin embargo, esto depende de la programación en el programa de Magíster.
   - Diversas asignaturas de ICMAT pueden ser convalidadas en el programa de Magíster. Por ejemplo, la asignatura [MAT206](https://github.com/faosorios/EST-USM/blob/master/Programas/MAT206.pdf) puede ser convalidada por su contraparte en el programa de Magíster [MAT460](https://github.com/faosorios/EST-USM/blob/master/Programas/MAT460.pdf) - *Inferencia Estadística*.
-  - Una serie de asignaturas son recomendables como complemento a las ofrecidas por nuestro departamento. El siguiente listado presenta algunos ejemplos:
-    + Base de datos (INF).
-    + Física computacional (FIS).
-    + Inteligencia artificial (INF).
-    + Minería de datos (ELO).
-    + Procesamiento de imágenes digitales (ELO). 
-    + Teoría de información (ELO).
+  - Una serie de asignaturas son recomendables como complemento a las ofrecidas por nuestro departamento. El siguiente listado presenta algunos ejemplos (en paréntesis el Departamento donde se dicta la asignatura):
+    + Base de datos (Informática).
+    + Física computacional (Física).
+    + Inteligencia artificial (Informática).
+    + Minería de datos (Electrónica).
+    + Procesamiento de imágenes digitales (Electrónica). 
+    + Teoría de información (Electrónica).
