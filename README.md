@@ -33,3 +33,5 @@ A continuación se describe las áreas de interés de cada uno de los académico
     + Minería de datos ([Electrónica](http://www.electronica.usm.cl/)).
     + Procesamiento de imágenes digitales ([Electrónica](http://www.electronica.usm.cl/)). 
     + Teoría de información ([Electrónica](http://www.electronica.usm.cl/)).
+
+El cuerpo de disciplinas ofrecidas por el DMAT se encuentran bajo una continua actualización y revisión de sus contenidos. De modo que, pueden sufrir alteraciones en el futuro.
