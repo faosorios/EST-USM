@@ -1,5 +1,4 @@
 # Línea de Modelación Estadística en DMAT-UTFSM
-
 La línea de **Modelación Estadística** tiene por objetivo la construcción de modelos probabilísticos que permitan llevar a cabo inferencias o tomar decisiones sobre la base de datos recolectados en condiciones de incertidumbre. La formación se enfoca en diversos procedimientos de modelamiento estadístico con particular énfasis en geoestadística, tratamiento de imágenes y señales, así como el análisis de datos con estructuras complejas incluyendo la implementación computacional de tales técnicas. Este tipo de procedimientos permiten un amplio espectro de aplicaciones en áreas tan diversas como bioestadística, psicometría, economía, entre otras.
 
 ## Académicos
@@ -35,3 +34,6 @@ A continuación se describe las áreas de interés de cada uno de los académico
     + Teoría de información ([Electrónica](http://www.electronica.usm.cl/)).
 
 El cuerpo de disciplinas ofrecidas por el DMAT se encuentran bajo una continua actualización y revisión de sus contenidos. De modo que, *pueden sufrir alteraciones en el futuro*.
+
+### Información adicional
+Una breve descripción de la línea de *modelación estadística* se presenta en la siguiente charla: [video en Youtube](https://youtu.be/KmimVVjbQt0), [slides](MISC/EST_2020.pdf)
