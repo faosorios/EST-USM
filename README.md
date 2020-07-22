@@ -1,2 +1,3 @@
 # Línea de Modelación Estadística en DMAT-UTFSM
-Línea de Modelación Estadística en la UTFSM
+
+La línea de **Modelación Estadística** tiene por objetivo la construcción de modelos probabilísticos que permitan llevar a cabo inferencias o tomar decisiones sobre la base de datos recolectados en condiciones de incertidumbre. La formación se enfoca en diversos procedimientos de modelamiento estadístico con particular énfasis en geoestadística, tratamiento de imágenes y señales, así como el análisis de datos con estructuras complejas incluyendo la implementación computacional de tales técnicas. Este tipo de procedimientos permiten un amplio espectro de aplicaciones en áreas tan diversas como bioestadística, psicometría, economía, entre otras.
