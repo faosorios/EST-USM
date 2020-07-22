@@ -8,7 +8,7 @@ A continuación se describe las áreas de interés de cada uno de los académico
 * [Felipe Osorio](http://fosorios.mat.utfsm.cl/): Models for data with longitudinal structure, Influence diagnostics, Inference functions.
 * [Ronny Vallejos](http://rvallejos.mat.utfsm.cl/): Spatial statistics, Robust modelling, Statistical image modelling, Time series.
 
-## Asignaturas ofrecidas por el área para os programas de ICMAT y Magíster en Matemática
+## Asignaturas ofrecidas para los programas de ICMAT y Magíster en Matemática
 * Asignaturas de formación general:
   - MAT041: Probabilidad y Estadística.
   - MAT263: Teoría de Probabilidades y Procesos Estocásticos.
