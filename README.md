@@ -4,6 +4,7 @@ La línea de **Modelación Estadística** tiene por objetivo la construcción de
 ## Académicos
 A continuación se describe las áreas de interés de cada uno de los académicos en esta línea:
 * [Alfredo Alegría](https://sites.google.com/site/alfredoalegriajimenez/): Multivariate spatial statistics, Geostatistics for large datasets, Non-gaussian random fields.
+* [Francisco Cuevas](https://fcocuevas87.github.io): Multivariate spatial statistics, Point patterns, Functional data.
 * [Felipe Osorio](http://fosorios.mat.utfsm.cl/): Models for data with longitudinal structure, Influence diagnostics, Inference functions.
 * [Ronny Vallejos](http://rvallejos.mat.utfsm.cl/): Spatial statistics, Robust modelling, Statistical image modelling, Time series.
 
