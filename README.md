@@ -36,4 +36,4 @@ A continuación se describe las áreas de interés de cada uno de los académico
 El cuerpo de disciplinas ofrecidas por el DMAT se encuentran bajo una continua actualización y revisión de sus contenidos. De modo que, *pueden sufrir alteraciones en el futuro*.
 
 ### Información adicional
-Una breve descripción de la línea de *modelación estadística* se presenta en la siguiente charla: [[slides]](MISC/EST_2021.pdf)
+Una breve descripción de la línea de *modelación estadística* se presenta en la siguiente charla: [[slides]](MISC/EST_2022.pdf)
